@@ -1,0 +1,15 @@
+/home/brad1996/Csharp-course/inheritance/bin/Debug/net7.0/inheritance
+/home/brad1996/Csharp-course/inheritance/bin/Debug/net7.0/inheritance.deps.json
+/home/brad1996/Csharp-course/inheritance/bin/Debug/net7.0/inheritance.runtimeconfig.json
+/home/brad1996/Csharp-course/inheritance/bin/Debug/net7.0/inheritance.dll
+/home/brad1996/Csharp-course/inheritance/bin/Debug/net7.0/inheritance.pdb
+/home/brad1996/Csharp-course/inheritance/obj/Debug/net7.0/inheritance.csproj.AssemblyReference.cache
+/home/brad1996/Csharp-course/inheritance/obj/Debug/net7.0/inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/brad1996/Csharp-course/inheritance/obj/Debug/net7.0/inheritance.AssemblyInfoInputs.cache
+/home/brad1996/Csharp-course/inheritance/obj/Debug/net7.0/inheritance.AssemblyInfo.cs
+/home/brad1996/Csharp-course/inheritance/obj/Debug/net7.0/inheritance.csproj.CoreCompileInputs.cache
+/home/brad1996/Csharp-course/inheritance/obj/Debug/net7.0/inheritance.dll
+/home/brad1996/Csharp-course/inheritance/obj/Debug/net7.0/refint/inheritance.dll
+/home/brad1996/Csharp-course/inheritance/obj/Debug/net7.0/inheritance.pdb
+/home/brad1996/Csharp-course/inheritance/obj/Debug/net7.0/inheritance.genruntimeconfig.cache
+/home/brad1996/Csharp-course/inheritance/obj/Debug/net7.0/ref/inheritance.dll
